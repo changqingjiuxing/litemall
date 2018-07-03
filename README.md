@@ -1,6 +1,6 @@
 # litemall
 
-这是一个学习机会。
+这是一个学习机会。对呀对呀
 litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端
 
 ## 项目代码
